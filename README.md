@@ -113,3 +113,5 @@ new 2ds xl (homebrewed)
 only devices that haven't been jailbroken are the ones that are impossible to, working on how to root the lg aristo 5 with mtkclient
 
 <details/>
+
+
