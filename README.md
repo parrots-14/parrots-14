@@ -3,6 +3,11 @@
 <details>
 <summary>my devices</summary>
 <br>
+
+phones
+
+----------------------
+
 samsung: 
   
 samsung galaxy a22 (main) 
@@ -64,6 +69,12 @@ stratus c7 (found w/ screen removed + back cover, still turns on)
 raspberry pi foundation:
 
 raspberry pi zero w
+
+----------------------
+
+not phones:
+
+----------------------
 
 pcs:
 
