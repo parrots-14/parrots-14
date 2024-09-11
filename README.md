@@ -34,13 +34,19 @@ samsung galaxy a14 (being worked on)
 
 samsung note 4 (emmc brick because of snapdragon)
 
+---
+
 nabi:
 
 nabi 2 (rooted)
 
+---
+
 htc:
 
 htc dream / t-mobile g1
+
+---
 
 iphone: 
 
@@ -52,9 +58,13 @@ iphone 4s (jailbroken)
 
 2x iphone 7 (forgot to get pin when i got them)
 
+---
+
 alcatel:
 
 pixi 3 4.5 (most development)
+
+---
 
 lg:
 
@@ -62,9 +72,13 @@ lg stylo 4
 
 lg aristo 5
 
+---
+
 cloud mobile:
 
 stratus c7 (found w/ screen removed + back cover, still turns on)
+
+---
 
 raspberry pi foundation:
 
@@ -83,6 +97,8 @@ dell optiplex 7040
 x570 taichi motherboard (unbuilt)
 
 rog ally
+
+---
 
 consoles:
 
